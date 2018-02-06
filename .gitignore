@@ -1,3 +1,11 @@
+# scanpy / graph absraction #
+#############################
+graph_abstraction/figures/*
+graph_abstraction/write/*
+graph_abstraction/data/*
+graph_abstraction/export*
+graph_abstraction/planaria_170705.ipynb
+
 # stuf I use #
 ##############
 todolist.txt
