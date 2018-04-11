@@ -1,4 +1,4 @@
-# Cell Type Atlas and Lineage Tree Reconstruction of Whole Adult Animals by Single Cell Sequencing
+# Cell Type Atlas and Lineage Tree of A Whole Complex Animal by Single-Cell Transcriptomics
 
 
 ### Graph Abstraction
