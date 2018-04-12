@@ -1,10 +1,10 @@
-# scanpy / graph absraction #
+# scanpy / paga #
 #############################
-graph_abstraction/figures/*
-graph_abstraction/write/*
-graph_abstraction/data/*
-graph_abstraction/export*
-graph_abstraction/planaria_170705.ipynb
+paga/figures/*
+paga/write/*
+paga/data/*
+paga/export*
+paga/planaria_170705.ipynb
 
 # stuf I use #
 ##############
