@@ -5,6 +5,7 @@
 The following notebooks provide the analyses based on *partition-based graph abstraction (PAGA)* [(Wolf *et al.*, 2017)](https://doi.org/10.1101/208819):
 
 - [*planaria*](https://nbviewer.jupyter.org/github/rajewsky-lab/planarian_lineages/blob/master/paga/planaria.ipynb): inferring the lineage tree from the topology of the Planarian cell atlas
+- [*preprocessing*](https://nbviewer.jupyter.org/github/rajewsky-lab/planarian_lineages/blob/master/paga/preprocessing.ipynb): same as *planaria*, but including all preprocessing steps
 - [*epidermal-lineage*](https://nbviewer.jupyter.org/github/rajewsky-lab/planarian_lineages/blob/master/paga/epidermal-lineage.ipynb): zooming into the pseudotime-reconstruction of the epidermal lineage
 - [*subsampling*](https://nbviewer.jupyter.org/github/rajewsky-lab/planarian_lineages/blob/master/paga/subsampling.ipynb): robustness of the tree under subsampling
 - [*wildtype*](https://nbviewer.jupyter.org/github/rajewsky-lab/planarian_lineages/blob/master/paga/wildtype.ipynb): robustness when using only wild-type samples
